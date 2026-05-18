@@ -48,3 +48,4 @@ A escolha do Python foi realizada devido à sua simplicidade, flexibilidade e am
 Já o uso do modelo Ollama 3 possibilita a criação de respostas inteligentes e contextualizadas, tornando o chatbot mais natural e capaz de interpretar diferentes solicitações dos usuários.
 
 Além disso, a combinação dessas tecnologias oferece escalabilidade, facilidade de manutenção e potencial para futuras integrações com sistemas de monitoramento e gerenciamento dos EV Chargers da GoodWe.
+<img width="1122" height="1402" alt="image" src="https://github.com/user-attachments/assets/cda47161-9240-46c2-9470-27f23618d458" />
